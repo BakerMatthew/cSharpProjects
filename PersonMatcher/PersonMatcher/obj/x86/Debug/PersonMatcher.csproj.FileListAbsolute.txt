@@ -1,0 +1,5 @@
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW1/PersonMatcher/PersonMatcher/bin/Debug/PersonMatcher.exe
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW1/PersonMatcher/PersonMatcher/bin/Debug/PersonMatcher.pdb
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW1/PersonMatcher/PersonMatcher/obj/x86/Debug/PersonMatcher.csproj.CoreCompileInputs.cache
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW1/PersonMatcher/PersonMatcher/obj/x86/Debug/PersonMatcher.exe
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW1/PersonMatcher/PersonMatcher/obj/x86/Debug/PersonMatcher.pdb

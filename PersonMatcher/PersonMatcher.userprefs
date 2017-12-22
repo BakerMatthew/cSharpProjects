@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1B8090B8-1EB1-44B8-BDB9-BB173DF7D092}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PersonMatcher/Program.cs">
+    <Files>
+      <File FileName="PersonMatcher/Program.cs" Line="36" Column="37" />
+      <File FileName="PersonMatcher/IO/IOManager.cs" Line="26" Column="45" />
+      <File FileName="PersonMatcher/IO/impl/JsonIO.cs" Line="25" Column="9" />
+      <File FileName="PersonMatcher/IO/impl/XmlIO.cs" Line="38" Column="1" />
+      <File FileName="PersonMatcher/model/Person.cs" Line="115" Column="31" />
+      <File FileName="PersonMatcher/model/PersonCollection.cs" Line="32" Column="55" />
+      <File FileName="PersonMatcher/model/PersonMatchPairCollection.cs" Line="14" Column="43" />
+      <File FileName="PersonMatcher/Algorithm/MatchingAlgorithm.cs" Line="7" Column="90" />
+      <File FileName="PersonMatcher/Algorithm/impl/NameAndBirthdayAlgorithm.cs" Line="8" Column="6" />
+      <File FileName="PersonMatcher/Algorithm/impl/NameAndMotherAlgorithm.cs" Line="4" Column="1" />
+      <File FileName="PersonMatcher/Algorithm/impl/NameAndSSNAlgorithm.cs" Line="4" Column="1" />
+      <File FileName="PersonMatcher/model/ErrorMessage.cs" Line="6" Column="91" />
+      <File FileName="PersonMatcherTest/ValidateInputTest.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PersonMatcher PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,13 @@
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/bin/Debug/netcoreapp1.1/SudokuSolverTest.deps.json
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/bin/Debug/netcoreapp1.1/SudokuSolverTest.runtimeconfig.json
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/bin/Debug/netcoreapp1.1/SudokuSolverTest.runtimeconfig.dev.json
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/bin/Debug/netcoreapp1.1/SudokuSolverTest.dll
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/bin/Debug/netcoreapp1.1/SudokuSolverTest.pdb
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/obj/Debug/netcoreapp1.1/SudokuSolverTest.csproj.CoreCompileInputs.cache
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/obj/Debug/netcoreapp1.1/SudokuSolverTest.AssemblyInfoInputs.cache
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/obj/Debug/netcoreapp1.1/SudokuSolverTest.AssemblyInfo.cs
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/obj/Debug/netcoreapp1.1/SudokuSolverTest.dll
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolverTest/obj/Debug/netcoreapp1.1/SudokuSolverTest.pdb

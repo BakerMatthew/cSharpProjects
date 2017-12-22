@@ -1,0 +1,5 @@
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolver/bin/Debug/SudokuSolver.exe
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolver/bin/Debug/SudokuSolver.pdb
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolver/obj/x86/Debug/SudokuSolver.csproj.CoreCompileInputs.cache
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolver/obj/x86/Debug/SudokuSolver.exe
+/Users/danbaker/Documents/CS/OO Dev/OO Repo/cs5700/HW4/SudokuSolver/SudokuSolver/obj/x86/Debug/SudokuSolver.pdb
